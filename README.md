@@ -12,7 +12,7 @@
         "repositories": [
             "bookmark",
             "config",
-            "legal",
+            "lawfare",
             "python",
             "radio",
             "textfile"
