@@ -9,14 +9,14 @@
             "osint compiler",
             "specialized non-us"
         ],
-        "repositories": [
-            "bookmark",
-            "config",
-            "lawfare",
-            "python",
-            "radio",
-            "textfile"
-        ],
+    },
+    "repositories": {
+        "bookmark",
+        "config",
+        "lawfare",
+        "python",
+        "radio",
+        "textfile"
     },
     "applications": {
         "bittorrent": "transmission",
@@ -49,7 +49,7 @@
             "russian": "novice"
         ],
     },
-    "in-game main": {
+    "in-game mains": {
         "dungeons": "phantom rogue / death cleric",
         "ffxiv": "reaper",
         "mtg": "karumonix, the rat king",
