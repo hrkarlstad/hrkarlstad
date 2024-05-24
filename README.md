@@ -19,6 +19,7 @@
         "textfile"
     },
     "applications": {
+        "analysis": "wireshark",
         "bittorrent": "transmission",
         "browser": "brave",
         "graphical": "gimp",
