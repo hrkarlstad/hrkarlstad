@@ -33,6 +33,11 @@
         "video player": "mpv",
         "word processor": "libreoffice writer"
     },
+    "in-game mains": {
+        "dungeons": "tabaxi phantom rogue/death cleric",
+        "mtg": ".",
+        "warcraft": "demonology warlock"
+    },
     "languages": {
         "reading": [
           "arabic": "intermediate",
@@ -50,12 +55,6 @@
             "russian": "novice"
         ],
     },
-    "in-game mains": {
-        "dungeons": "phantom rogue / death cleric",
-        "ffxiv": "reaper",
-        "mtg": "karumonix, the rat king",
-        "warcraft": "brewmaster monk"
-    }
 }
 
 ```
