@@ -6,8 +6,7 @@
         "nuisance": [
             "humint expert",
             "polyglot",
-            "osint compiler",
-            "specialized non-us"
+            "osint compiler"
         ],
     },
     "repositories": {
