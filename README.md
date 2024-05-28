@@ -46,12 +46,12 @@
         ],
     },
     "repositories": {
-        "bookmark",
-        "config",
-        "lawfare",
-        "python",
-        "radio",
-        "textfile"
+        "bookmark": "bookmark",
+        "config": "debian12 dotconfig files",
+        "lawfare": "historical and legal documents",
+        "python": "python scripting",
+        "radio": "dx radio logging",
+        "textfile": "textfile"
     },
 
 }
