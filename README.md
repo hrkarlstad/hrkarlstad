@@ -25,12 +25,11 @@
         "messenger": "discord",
         "network scanner": "nmap",
         "package manager": "nala",
-        "slideshow": "libreoffice impress",
-        "spreadsheet": "libreoffice calc",
+        "spreadsheet": "calc",
         "terminal": "alacritty",
         "text editor": "kate",
         "video player": "mpv",
-        "word processor": "libreoffice writer"
+        "word processor": "writer"
     },
     "in-game mains": {
         "dungeons": "tabaxi phantom rogue/death cleric",
