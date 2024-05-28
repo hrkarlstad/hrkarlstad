@@ -26,7 +26,7 @@
     "in-game mains": {
         "dungeons": "tabaxi phantom rogue/death cleric",
         "mtg": "karumonix, the rat king",
-        "warcraft": "brewmaster monk"
+        "warcraft": "daggerspine > brewmaster monk"
     },
     "languages": {
         "reading": [
