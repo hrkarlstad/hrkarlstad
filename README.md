@@ -1,22 +1,5 @@
 ```json
 {
-    "demographics": {
-        "login": "holli ryann karlstad",
-        "distribution": "debian12",
-        "nuisance": [
-            "humint expert",
-            "polyglot",
-            "osint compiler"
-        ],
-    },
-    "repositories": {
-        "bookmark",
-        "config",
-        "lawfare",
-        "python",
-        "radio",
-        "textfile"
-    },
     "applications": {
         "analysis": "wireshark",
         "bittorrent": "transmission",
@@ -30,6 +13,15 @@
         "text editor": "kate",
         "video player": "mpv",
         "word processor": "writer"
+    },
+    "demographics": {
+        "login": "holli ryann karlstad",
+        "distribution": "debian12",
+        "nuisance": [
+            "humint expert",
+            "polyglot",
+            "osint compiler"
+        ],
     },
     "in-game mains": {
         "dungeons": "tabaxi phantom rogue/death cleric",
@@ -53,6 +45,15 @@
             "russian": "novice"
         ],
     },
+    "repositories": {
+        "bookmark",
+        "config",
+        "lawfare",
+        "python",
+        "radio",
+        "textfile"
+    },
+
 }
 
 ```
