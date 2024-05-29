@@ -24,7 +24,7 @@
         ],
     },
     "in-game mains": {
-        "dungeons": "tabaxi phantom rogue/death cleric",
+        "dungeons": "phantom rogue/death cleric",
         "mtg": "karumonix, the rat king",
         "warcraft": "daggerspine > brewmaster monk"
     },
